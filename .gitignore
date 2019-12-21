@@ -1,5 +1,6 @@
 # Ignore everything
-!*/
+*
 
 # Except our cloud save
-!Around the world in 80 turns
+!Around
+!Around/*
